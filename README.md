@@ -1,4 +1,4 @@
-# AI News “Analyst” Agent (Option 2)
+# AI News “Analyst” Agent – AI Intern Challenge (Option 2)
 
 This repository contains my solution for **Option 2: The “Analyst” Agent (Advanced Automation)**.
 
